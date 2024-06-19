@@ -95,7 +95,7 @@ window.function = function (html, fileName, format, zoom, orientation, margin, b
 	  font-weight: 600;
 	  line-height: 1.5rem;
 	  color: #0d0d0d;
-	  border: 2px solid #000000;
+	  border: 4px solid #000000;
 	  font-family: 'Arial';
 	  padding: 0px 12px;
 	  height: 32px;
