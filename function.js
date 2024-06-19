@@ -91,12 +91,12 @@ window.function = function (html, fileName, format, zoom, orientation, margin, b
 	button#download {
 	  position: absolute;
 	  border-radius: 0.5rem;
-	  font-size: 14px;
+	  font-size: 20px;
 	  font-weight: 600;
 	  line-height: 1.5rem;
 	  color: #0d0d0d;
 	  border: none;
-	  font-family: 'Inter';
+	  font-family: 'Arial';
 	  padding: 0px 12px;
 	  height: 32px;
 	  background: #ffffff;
